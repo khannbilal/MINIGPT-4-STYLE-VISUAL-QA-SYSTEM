@@ -50,7 +50,7 @@ Visual Genome Dataset — Largescale visual reasoning dataset with 108k images a
  Evaluated on Visual Genome QA subset using Accuracy, BLEU4, and CIDEr metrics.
  Visualized reasoning attention overlays highlighting relevant regions for each question.
 
- Architecture (Textual Diagram)
+ #  Architecture (Textual Diagram)
  
         ┌───────────────────────────────┐
         │ Input Image + User Question   │
